@@ -2,14 +2,21 @@
 
 ## About me
 - My name is Zander, and I am a 2nd year Honours Computer Science student at Carleton University specializing in game development.
-- Throughout my degree I have studied Procedural and Object-Oriented Programming, Discrete Math, Algorithms, and Data Structures.
+- Throughout my degree I have studied Procedural and Object-Oriented Programming, Discrete Math, Algorithms and Data Structures, Game Development using multiple methods like OpenGL and Godot, Web Development, and Software Engineering principles.
 - My main study interests are programming, math, data management/analysis, algorithms, and game development.
 - In my free time I like to play video games, program, edit videos/photos, play hockey, and socialize with friends and family.
   
 # Skills
 
 ## 🚀 Programming Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/PYTHON-14354C?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=black"/>&nbsp;
+
 
 ## 📄 IDEs/Editors
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>&nbsp;
